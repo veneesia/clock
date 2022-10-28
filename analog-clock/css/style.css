@@ -6,7 +6,7 @@
     font-family: 'Poppins',sans-serif;
 }
 :root{
-    --bgcolor:aqua;
+    --bgcolor:gray;
     --clock-frame:black;
     --clock-bg:antiquewhite;
     --shadow:pink;
